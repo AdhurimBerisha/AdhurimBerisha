@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  I am a passionate Front-End Developer currently completing my degree in Computer Science and Engineering. Based in Pristina, Kosovo 🇽🇰, I enjoy building responsive, user-focused web applications that blend modern design with functional performance.<br>
+  I am a passionate Front-End Developer currently completing my degree in Computer Science and Engineering. Based in Pristina, Kosovo 🇽🇰 , I enjoy building responsive, user-focused web applications that blend modern design with functional performance.<br>
   I'm always looking for new challenges to grow my skills and contribute to meaningful projects.
 </p>
 
