@@ -44,33 +44,21 @@
 
 
 
-###
-
 <p align="left">Let's Connect</p>
 
-###
-
 <div align="left">
-  <a href="https://www.linkedin.com/in/adhurim-berisha-430046283" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/adhuriimb?igsh=MWVuMTI0djU2YzQzNA%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://adhurimberisha.vercel.app/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="40" height="40" alt="portfolio logo" />
-</a>
-
-
-
-
-
-
-
-
-
-
+  <a href="https://www.linkedin.com/in/adhurim-berisha-430046283"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" height="40"></a>
+  <img width="12">
+  <a href="https://www.instagram.com/adhuriimb?igsh=MWVuMTI0djU2YzQzNA%3D%3D&utm_source=qr"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="Instagram" height="40"></a>
+  <img width="12">
+  <a href="https://adhurimberisha.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" alt="Portfolio" height="40"></a>
 </div>
+
+
+
+
+
+
 
 ###
 
