@@ -51,8 +51,8 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/adhurim-berisha-430046283"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" height="40"></a>&nbsp;
-  <a href="https://www.instagram.com/adhuriimb?igsh=MWVuMTI0djU2YzQzNA%3D%3D&utm_source=qr"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="Instagram" height="40"></a>&nbsp;
   <a href="https://adhurimberisha.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" alt="Portfolio" height="40"></a>
+  <a href="https://www.instagram.com/adhuriimb?igsh=MWVuMTI0djU2YzQzNA%3D%3D&utm_source=qr"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="Instagram" height="40"></a>&nbsp;
 </div>
 
 
