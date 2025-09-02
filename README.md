@@ -43,8 +43,11 @@
 </div>
 
 
+###
 
-<p align="left">Let's Connect</p>
+<h2 align="left">Let's Connect</h2>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/adhurim-berisha-430046283"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" height="40"></a>
