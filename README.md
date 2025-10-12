@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  👨‍💻I am a passionate Front-End Developer currently completing my degree in Computer Science and Engineering. Based in Pristina, Kosovo 🇽🇰 , I enjoy building responsive, user-focused web applications that blend modern design with functional performance.<br>
+  👨‍💻 I am a passionate Front-End Developer currently completing my degree in Computer Science and Engineering. Based in Pristina, Kosovo 🇽🇰, I enjoy building responsive, user-focused web applications that blend modern design with functional performance.<br>
   I'm always looking for new challenges to grow my skills and contribute to meaningful projects.
 </p>
 
@@ -24,6 +24,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
+  <!-- React Native -->
+  <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" height="40" alt="react native logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
@@ -39,9 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
 </div>
-
 
 ###
 
@@ -54,16 +55,6 @@
   <a href="https://adhurimberisha.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" alt="Portfolio" height="40"></a>
   <a href="https://www.instagram.com/adhuriimb?igsh=MWVuMTI0djU2YzQzNA%3D%3D&utm_source=qr"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="Instagram" height="40"></a>&nbsp;
 </div>
-
-
-
-
-
-
-
-
-
-
 
 ###
 
