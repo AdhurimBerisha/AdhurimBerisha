@@ -26,10 +26,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=AdhurimBerisha&theme=dark&hide_border=true)<br/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AdhurimBerisha&icon=0&color=0)](https://visitcount.itsvg.in)
 
