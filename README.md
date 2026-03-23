@@ -5,9 +5,9 @@
 👨‍💻 I am a passionate Front-End Developer currently completing my degree in Computer Science and Engineering. Based in Pristina, Kosovo 🇽🇰, I enjoy building responsive, user-focused web applications that blend modern design with functional performance.<br>I'm always looking for new challenges to grow my skills and contribute to meaningful projects.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adhuriimb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhurim-berisha/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://adhurimberisha.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adhuriimb)
 
 
 
