@@ -2,7 +2,8 @@
 
 ###
 
-👨‍💻 I am a passionate Front-End Developer currently completing my degree in Computer Science and Engineering. Based in Pristina, Kosovo 🇽🇰, I enjoy building responsive, user-focused web applications that blend modern design with functional performance.<br>I'm always looking for new challenges to grow my skills and contribute to meaningful projects.
+👨‍💻 Full Stack Developer | Computer Science & Engineering student | Pristina, Kosovo 🇽🇰
+I build responsive, user-focused web applications that combine sleek design with solid functionality. Passionate about tackling new challenges, learning cutting-edge technologies, and delivering impactful projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhurim-berisha/)
