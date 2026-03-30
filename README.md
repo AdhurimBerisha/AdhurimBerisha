@@ -3,7 +3,10 @@
 ###
 
 🚀 Full Stack Developer focused on building scalable, real-time web applications  
-💡 Passionate about clean UI, performance, and modern tech (React, Next.js, Node.js)
+💻 Experienced with React, Next.js, Node.js, and modern web technologies  
+⚡ I enjoy creating fast, responsive UIs backed by efficient APIs and clean architecture  
+📚 Currently expanding my skills in backend scalability, system design, and real-time systems  
+🎯 Always open to new challenges, internships, and impactful projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhurim-berisha/)
